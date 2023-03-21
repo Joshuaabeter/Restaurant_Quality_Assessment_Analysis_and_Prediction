@@ -1,1 +1,1 @@
-# Restaurant quality assessment analysisand prediction with Sklearn
+# Restaurant quality assessment analysis and prediction with Sklearn
